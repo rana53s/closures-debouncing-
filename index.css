@@ -1,0 +1,27 @@
+.container {
+    margin: auto;
+    width: 60%;
+    height: auto;
+    border: 1px solid red;
+    border-radius: 3px;
+}
+
+.container input {
+    border: 1px solid teal;
+    border-radius: 3px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold; 
+    padding: 5px;
+    text-align: center;
+    
+}
+
+#movies {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(82, 71, 145, 0.651);
+    color: whitesmoke;
+    font-weight: bold;
+    overflow: scroll;
+}
